@@ -23,7 +23,6 @@ if __name__ == "__main__":
     """
     Console results:
 
-    /usr/bin/python /Users/QSM/QSM/QuadraticEquation/.idea/QuadraticEquation.py
     Test 1:
     The solution belongs to the Complex Numbers field.
 
